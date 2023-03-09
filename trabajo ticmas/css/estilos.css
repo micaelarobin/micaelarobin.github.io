@@ -1,0 +1,51 @@
+.clases{
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+    color: black;}
+
+h1{
+    border: darkcyan;
+    color:darkcyan;
+}
+
+h2{
+    font-weight: bold;
+    font-family: 'Moon Dance', cursive;}
+
+#titulo_principal {
+    text-align: center;
+    font-size: 60px;}
+
+
+    
+    /*Responsive Web Design*/
+    
+    * {
+        box-sizing: border-box;}
+        
+        header, main, section, footer {
+            padding: 15px;
+            border: 10px solid darkcyan;}
+            
+        figure, main, summary, section, footer{
+            float: left}
+            
+        figure {
+            border: 10px;}
+
+        section, footer {
+            width: 43%;}
+        
+        summary {
+            padding: 34px;
+            border: 1px;
+            width: 75%;}
+            
+        section {
+            padding: 30px;}
+            
+            main {
+                width: 55%;}
+
+  
